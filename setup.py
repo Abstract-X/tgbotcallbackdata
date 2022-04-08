@@ -9,7 +9,7 @@ def get_long_description() -> str:
 
 setuptools.setup(
     name="tgbotcallbackdata",
-    version="1.0.0",
+    version="1.0.1",
     packages=setuptools.find_packages(exclude=("tests", "docs")),
     url="https://github.com/Abstract-X/tgbotcallbackdata",
     license="MIT",
