@@ -19,7 +19,7 @@ setuptools.setup(
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     install_requires=[
-        "xcept>=1.0.1",
+        "xcept>=2.0.0",
     ],
     python_requires='>=3.7',
     classifiers=[
